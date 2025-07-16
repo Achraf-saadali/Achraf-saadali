@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Achraf Saadali
 
-🎓 1st year Computer Science student at ENSA El Jadida (IITE)  
+🎓 Computer Science student at ENSA El Jadida (IITE)  
 💻 Aspiring full-stack developer | Passionate about AI & Software Engineering  
 📫 Contact me: achrafsaadalii@gmail.com
 
@@ -24,11 +24,7 @@
 
 ---
 
-### 🐍 Contribution Snake Game
 
-![snake gif](https://github.com/achraf-saadali/achraf-saadali/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🚀 Projects I'm Working On
 
