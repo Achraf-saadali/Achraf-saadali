@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Projects I'm Working On
+### 🚀 Projects I've Worked On
 
 - 🧠 **AI Recommendation System** for students with integrated e-learning platform (Flask + React)
 - 📊 **Java Web Application** with Servlet, JDBC, JSP & MySQL deployed on Tomcat
@@ -33,30 +33,7 @@
 
 ---
 
-### 🎮 Play Snake Game!
-Take a break and play a classic Snake game I built with JavaScript:  
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: achraf-saadali
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
