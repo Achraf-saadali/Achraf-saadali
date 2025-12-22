@@ -5,17 +5,12 @@
 
 ---
 
-### 🔧 Technologies I Use
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Servlet](https://img.shields.io/badge/-Servlet-05122A?style=flat&logo=java)
-![JSP](https://img.shields.io/badge/-JSP-05122A?style=flat&logo=java)
-![Tomcat](https://img.shields.io/badge/-Tomcat-05122A?style=flat&logo=apache-tomcat)
+
+## Tools I use almost everyday:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,oracle,mysql,nodejs,bun,react,git,python,notion,java,figma,docker,vscode,bash&perline=8" />
+</p>
 
 ---
 
