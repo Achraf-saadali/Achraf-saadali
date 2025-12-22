@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Achraf Saadali
-🎓 Computer Science student at ENSA El Jadida (IITE)  
-💻 Aspiring full-stack developer | Passionate about AI & Software Engineering  
-📫 Contact me: achrafsaadalii@gmail.com
+#  Hi, I'm Achraf Saadali
+ Computer Science student at ENSA El Jadida (IITE)  
+ Aspiring full-stack developer | Passionate about AI & Software Engineering  
+ Contact me: achrafsaadalii@gmail.com
 
 ---
 
@@ -14,23 +14,23 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 ![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achraf-saadali&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-saadali&layout=compact&theme=tokyonight)
 
 ---
 
-### 🚀 Projects I've Worked On
+###  Projects I've Worked On
 
-- 🧠 **AI Recommendation System** for students with integrated e-learning platform (Flask + React)
-- 📊 **Java Web Application** with Servlet, JDBC, JSP & MySQL deployed on Tomcat
-- 🏗️ **Full-stack applications** using Laravel and modern web technologies
-
----
-
-
+-  **AI Recommendation System** for students with integrated e-learning platform (Flask + React)
+-  **Java Web Application** with Servlet, JDBC, JSP & MySQL deployed on Tomcat
+-  **Full-stack applications** using Laravel and modern web technologies
 
 ---
+
+
+
+
 
 
 
