@@ -9,7 +9,7 @@
 ## Tools I use almost everyday:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,kotlin,mysql,nodejs,spring,react,git,python,notion,java,figma,docker,vscode,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,kotlin,mysql,nodejs,spring,react,git,python,java,figma,docker,vscode,bash&perline=8" />
 </p>
 
 ---
