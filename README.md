@@ -15,7 +15,7 @@
 ---
 
 ###  GitHub Stats
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achraf-saadali&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-saadali&layout=compact&theme=tokyonight)
 
 ---
