@@ -58,7 +58,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Achraf-saadali)](https://github.com/Achraf-saadali/github-readme-stats)
 
 ---
-### My Contributions 
+### My Snake Contributions 🐍 (...keep up 😂) 
 <div align="center">
  <img src="https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg"/>
 
