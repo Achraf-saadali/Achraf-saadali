@@ -55,7 +55,10 @@
 
 ###  GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Achraf-saadali)](https://github.com/Achraf-saadali/github-readme-stats)
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achraf-Saadali&theme=react"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Achraf-Saadali&theme=react"/>
+</div>
 
 ---
 ### My Snake Contributions 🐍 (...keep up 😂) 
