@@ -51,7 +51,7 @@
 
 ###  GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-saadali&layout=compact&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Achraf-saadali)](https://github.com/Achraf-saadali/github-readme-stats)
 
 ---
 ### My Contributions 
