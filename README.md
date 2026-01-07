@@ -1,7 +1,7 @@
-#  Hi, I'm Achraf Saadali
- Computer Science student at ENSA El Jadida (IITE)  
- Aspiring full-stack developer | Passionate about AI & Software Engineering  
- Contact me: achrafsaadalii@gmail.com
+<h1 align="center" > 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achraf+Saadali!;" />
+
+</h1>
 
 ---
 
