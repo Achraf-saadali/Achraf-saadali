@@ -54,6 +54,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-saadali&layout=compact&theme=tokyonight)
 
 ---
+### My Contributions 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
 
 
 
