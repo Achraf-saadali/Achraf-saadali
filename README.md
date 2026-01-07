@@ -3,22 +3,40 @@
 
 </h1>
 
+**Hi , I am Achraf...** I am Computer science Student in my pre-gradauation year !!! . I  work on random project , School projects  , Business projects ........   
+    
+
 <div align="center">
+
+  <div>
+    <div style="font-weight: bold;">
+      <b>
+      Reach Out Through these Links below
+      </b>
+    </div>
+    <div style="font-size: 12px; color: gray;">
+      Don't click on GitHub — we are already here!
+    </div>
+  </div>
+
+  <br/>
+
   <a href="mailto:achrafsaadalii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
- &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://github.com/Achraf-saadali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
- &nbsp;
-
-
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/achraf-saadali-05b927319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
+
 </div>
+
 
 ---
 
@@ -26,7 +44,7 @@
 ## Tools For Every-day Almost Usage:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,flask,kotlin,mysql,nodejs,spring,react,git,python,java,figma,docker,vscode,intellij,bash&perline=18" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,js,flask,fastapi,kotlin,mysql,laravel,spring,react,git,python,java,figma,docker,vscode,idea,vercelbash&perline=18" />
 </p>
 
 ---
