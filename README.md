@@ -56,7 +56,8 @@
 ---
 ### My Contributions 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+ ![Snake animation](https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
