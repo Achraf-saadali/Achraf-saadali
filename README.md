@@ -44,7 +44,7 @@
 ## Tools For Every-day Almost Usage:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,js,flask,fastapi,kotlin,mysql,sqlite,laravel,hibernate,spring,react,git,python,java,maven,postman,figma,docker,vscode,idea,vercel,bash,powershell,windows&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,js,flask,fastapi,kotlin,mysql,sqlite,laravel,hibernate,spring,react,git,,colab,python,java,maven,postman,figma,docker,vscode,idea,vercel,bash,powershell,windows&perline=13" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/03/android-chrome-512x512_KaLgc62.png" alt="Brand Icon" width="48" height="50" />
 </p>
 
