@@ -55,16 +55,16 @@
 
 ###  GitHub Stats
 
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achraf-Saadali&theme=react"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Achraf-Saadali&theme=react"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achraf-Saadali&theme=react" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Achraf-Saadali&theme=react" width="49%" />
 </div>
 
 ---
-### My Snake Contributions 🐍 (...keep up 😂) 
-<div align="center">
- <img src="https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg"/>
+## 🐍 My Snake Contributions
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achraf-saadali/Achraf-saadali/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
