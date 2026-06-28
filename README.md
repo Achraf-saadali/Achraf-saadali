@@ -1,7 +1,16 @@
+
 <h1 align="center" > 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achraf+Saadali!;" />
 
 </h1>
+<div align="center">
+
+> ### 💭 *"Nothing frees you from sacrifice . you sacrifice now or later , Later costs MORE . "*
+> *— A thought to be fathomed*
+
+</div>
+
+
 
 **Hi , I am Achraf...** I am Computer science Student in my pre-gradauation year !!! . I  work on random project , School projects  , Business projects ........   
     
